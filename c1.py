@@ -1,1 +1,3 @@
-print("Hello world")
+print("Hello World")
+a = 5
+print(a)
