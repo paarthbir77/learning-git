@@ -1,5 +1,14 @@
 # learning-git
-#Commands used are the following
-#git add c1.py
-#git commit -m "insert comment" c1.py
-#git push -u origin master
+1) git init
+
+2) git add .
+
+3) git commit -m "Add all my files"
+
+4) git remote add origin https://github.com/yourusername/your-repo-name.git
+
+Upload of project from scratch require git pull origin master.
+
+5) git pull origin master
+
+6) git push origin master
