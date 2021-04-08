@@ -9,8 +9,6 @@
 
 Upload of project from scratch require git pull origin master.
 
-5) git pull origin master
-
 6) git push origin master
 
 
